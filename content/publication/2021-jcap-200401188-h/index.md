@@ -1,7 +1,7 @@
 ---
 title: "Vortices and waves in light dark matter"
 date: 2020-04-01
-publishDate: 2021-01
+publishDate: 2021-01-01
 authors: ["Lam Hui", "Austin Joyce", "Michael J. Landry", "Xinyu Li"]
 publication_types: ["2"]
 abstract: ""

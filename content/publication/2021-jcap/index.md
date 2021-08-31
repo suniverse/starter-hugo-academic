@@ -1,7 +1,7 @@
 ---
 title: "Don't cross the streams: caustics from fuzzy dark matter"
-date: 2021-03
-publishDate: 2021-01
+date: 2021-03-01
+publishDate: 2021-01-01
 authors: ["Neal Dalal","Jo Bovy","Lam Hui", "Xinyu Li"]
 publication_types: ["2"]
 abstract: ""
