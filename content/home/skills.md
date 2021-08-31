@@ -8,6 +8,7 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 90
+active: false
 
 title: Skills
 subtitle:
@@ -17,9 +18,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: laptop-code
+  icon: r-project
   icon_pack: fab
-  name: Numerical Simulation
+  name: R
 - description: 100%
   icon: chart-line
   icon_pack: fas
