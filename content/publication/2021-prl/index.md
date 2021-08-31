@@ -1,6 +1,6 @@
 ---
 title: "Neutrino Fast Flavor Conversions in Neutron-Star Postmerger Accretion Disks"
-date: 20201-06
+date: 2021-06
 publishDate: 2021-06
 authors: ["Xinyu Li","Daniel Siegel"]
 publication_types: ["2"]

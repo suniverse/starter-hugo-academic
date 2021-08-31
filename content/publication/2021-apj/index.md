@@ -1,6 +1,6 @@
 ---
 title: "Fast Dissipation of Colliding Alfvén Waves in a Magnetically Dominated Plasma"
-date: 20201-07
+date: 2021-07
 publishDate: 2021-07
 authors: ["Xinyu Li","Andrei M. Beloborodov", "Lorenzo Sironi"]
 publication_types: ["2"]
