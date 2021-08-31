@@ -76,5 +76,3 @@ highlight_name: true
 ---
 
 I am currently a joint Postdoctoral Fellow at CITA and Perimeter Institute. I am fond of discovering fundamental physical laws from the vast observation of various astrophysical objects. My research areas are high energy astrophysics, plasma astrophysics and cosmology. My research topics cover a broad range of physical scales: from the smallest fundamental particles like electrons and ultralight axions, to neutron stars, black holes and galaxies, and to the largest scale structure of the universe.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
