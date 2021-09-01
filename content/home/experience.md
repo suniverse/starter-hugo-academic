@@ -39,7 +39,7 @@ experience:
     - title: Graduate Research Assistant
     company: Columbia University
     company_url: ''
-    #company_logo: org-gc
+    company_logo: org-gc
     #location: California
     date_start: '2013-09-01'
     date_end: '2019-08-30'
