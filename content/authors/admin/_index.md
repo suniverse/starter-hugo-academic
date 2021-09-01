@@ -11,7 +11,7 @@ role: Postdoctoral Fellow
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Canadian Institute for Theoretical Astrophysics 
-  url: www.cita.utoronto.ca
+  url: http://www.cita.utoronto.ca
 - name: Perimeter Institute
   url: http://www.perimeterinstitute.ca
   
@@ -23,6 +23,9 @@ interests:
 - High Energy Astrophysics
 - Cosmology
 - Plasma Astrophysics
+- Compact Objects
+- Dark Matter
+- Galactic Dynamics
 
 # Education to show in About widget
 education:
