@@ -34,13 +34,13 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Slides
-  url: https://twitter.com/georgecushen
+#- icon: twitter
+#  icon_pack: fab
+#  name: Slides
+#  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "/static/upload/magnetar.pdf"
+url_slides: "/static/uploads/magnetar.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
