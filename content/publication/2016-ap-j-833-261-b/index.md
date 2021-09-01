@@ -6,7 +6,7 @@ authors: ["Andrei M. Beloborodov", "Xinyu Li"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*apj*"
+publication: "*ApJ*"
 tags: ["dense matter", "magnetohydrodynamics: MHD", "neutrinos", "radiation mechanisms: general", "stars: magnetars", "stars: neutron", "Astrophysics - High Energy Astrophysical Phenomena"]
 doi: "10.3847/1538-4357/833/2/261"
 ---

@@ -6,7 +6,7 @@ authors: ["F.~Y. Wang", "Xinyu Li", "D.~O. Chernyshov", "C.~Y. Hui", "G.~Q. Zhan
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*apj*"
+publication: "*ApJ*"
 tags: ["High-energy cosmic radiation", "Magnetars", "Astrophysics - High Energy Astrophysical Phenomena"]
 doi: "10.3847/1538-4357/ab55db"
 ---

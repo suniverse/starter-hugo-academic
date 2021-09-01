@@ -6,7 +6,7 @@ authors: ["Xinyu Li", "Lam Hui", "Greg L. Bryan"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*prd*"
+publication: "*PRD*"
 tags: ["Astrophysics - Cosmology and Nongalactic Astrophysics", "General Relativity and Quantum Cosmology", "High Energy Physics - Phenomenology", "High Energy Physics - Theory"]
 doi: "10.1103/PhysRevD.99.063509"
 ---

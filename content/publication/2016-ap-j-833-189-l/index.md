@@ -6,7 +6,7 @@ authors: ["Xinyu Li", "Yuri Levin", "Andrei M. Beloborodov"]
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*apj*"
+publication: "*ApJ*"
 tags: ["dense matter", "magnetic fields", "stars: magnetars", "stars: neutron", "waves", "Astrophysics - High Energy Astrophysical Phenomena"]
 doi: "10.3847/1538-4357/833/2/189"
 ---

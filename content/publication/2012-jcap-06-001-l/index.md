@@ -6,7 +6,7 @@ authors: ["X.~Y. Li", "T. Harko", "K.~S. Cheng"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*jcap*"
+publication: "*JCAP*"
 tags: ["Astrophysics - Cosmology and Extragalactic Astrophysics", "General Relativity and Quantum Cosmology"]
 doi: "10.1088/1475-7516/2012/06/001"
 ---

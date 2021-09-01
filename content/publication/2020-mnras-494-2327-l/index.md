@@ -6,7 +6,7 @@ authors: ["Xinyu Li", "Philip Chang", "Yuri Levin", "Christopher D. Matzner", "P
 publication_types: ["2"]
 abstract: ""
 featured: true
-publication: "*mnras*"
+publication: "*MNRAS*"
 tags: ["accretion", "accretion discs", "stars: neutron", "stars: winds", "outflows", "Astrophysics - High Energy Astrophysical Phenomena"]
 doi: "10.1093/mnras/staa900"
 ---

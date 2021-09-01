@@ -6,7 +6,7 @@ authors: ["Lam Hui", "Daniel Kabat", "Xinyu Li", "Luca Santoni", "Sam S.~C. Wong
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*jcap*"
+publication: "*JCAP*"
 tags: ["General Relativity and Quantum Cosmology", "Astrophysics - Cosmology and Nongalactic Astrophysics", "High Energy Physics - Theory"]
 doi: "10.1088/1475-7516/2019/06/038"
 ---

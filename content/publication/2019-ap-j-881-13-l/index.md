@@ -6,7 +6,7 @@ authors: ["Xinyu Li", "Jonathan Zrake", "Andrei M. Beloborodov"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "*apj*"
+publication: "*ApJ*"
 tags: ["dense matter", "magnetic fields", "stars: magnetars", "stars: neutron", "waves", "Astrophysics - High Energy Astrophysical Phenomena"]
 doi: "10.3847/1538-4357/ab2a03"
 ---
