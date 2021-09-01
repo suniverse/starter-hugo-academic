@@ -25,8 +25,8 @@ experience:
   - title: Postdoctoral Fellow
     company: CITA/PI
     company_url: ''
-    company_logo: org-gc
-    location: California
+    #company_logo: org-gc
+    location: Toronto
     date_start: '2019-09-01'
     date_end: ''
     #description: |2-
@@ -40,7 +40,7 @@ experience:
     company: Columbia University
     company_url: ''
     #company_logo: org-gc
-    #location: California
+    location: New York
     date_start: '2013-09-01'
     date_end: '2019-08-30'
 
