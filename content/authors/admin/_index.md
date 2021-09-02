@@ -25,7 +25,6 @@ interests:
 - Plasma Astrophysics
 - Compact Objects
 - Dark Matter
-- Galactic Dynamics
 
 # Education to show in About widget
 education:
@@ -78,4 +77,4 @@ email: "xli@cita.utoronto.ca"
 highlight_name: true
 ---
 
-I am currently a joint Postdoctoral Fellow at CITA and Perimeter Institute. I am fond of discovering fundamental physical laws from the vast observation of various astrophysical objects. My research areas are high energy astrophysics, plasma astrophysics and cosmology. My research topics cover a broad range of physical scales: from the smallest fundamental particles like electrons and ultralight axions, to neutron stars, black holes and galaxies, and to the largest scale structure of the universe.
+I am currently a Postdoctoral Fellow at CITA and Perimeter Institute. I am fond of discovering fundamental physical laws from the vast observation of various astrophysical objects. My research areas are high energy astrophysics, plasma astrophysics and cosmology. My research topics cover a broad range of physical scales: from the smallest fundamental particles like electrons and ultralight axions, to neutron stars, black holes and galaxies, and to the largest scale structure of the universe.
