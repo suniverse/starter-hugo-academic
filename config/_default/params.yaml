@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: xli@cita.utoronto.ca
+email: xinyuli@tsinghua.edu.cn
 # phone: 888 888 88 88
 address:
-  street: 60 St George Street
-  city: Toronto
-  region: ON
-  postcode: 'M5R 2M8'
-  country: Canada
-  country_code: CAN
-coordinates:
-  latitude: '43.661187'
-  longitude: '-79.397686'
-directions: 13th floor of the McLennan Physical Laboratories
+  street: 30 Shuangqing Rd, Haidian District
+  city: Beijing
+  region: ''
+  postcode:10084
+  country: China
+  country_code: CHN
+coordinates:''
+  latitude: '39.9997'
+  longitude: '116.3264'
+directions: ''
 #office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
