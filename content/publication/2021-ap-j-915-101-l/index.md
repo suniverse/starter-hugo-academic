@@ -5,7 +5,7 @@ authors:
 - Andrei M. Beloborodov
 - Lorenzo Sironi
 date: '2021-07-01'
-publishDate: '2024-12-16T07:20:12.611711Z'
+publishDate: '2024-12-16T07:25:40.468319Z'
 publication_types:
 - article-journal
 publication: '*apj*'

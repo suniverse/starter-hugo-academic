@@ -6,7 +6,7 @@ authors:
 - Zigao Dai
 - Xuefeng Wu
 date: '2023-03-01'
-publishDate: '2024-12-16T07:20:12.526376Z'
+publishDate: '2024-12-16T07:25:40.378273Z'
 publication_types:
 - article-journal
 publication: '*Research in Astronomy and Astrophysics*'

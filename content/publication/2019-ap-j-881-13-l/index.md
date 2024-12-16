@@ -5,7 +5,7 @@ authors:
 - Jonathan Zrake
 - Andrei M. Beloborodov
 date: '2019-08-01'
-publishDate: '2024-12-16T07:20:12.686181Z'
+publishDate: '2024-12-16T07:25:40.551184Z'
 publication_types:
 - article-journal
 publication: '*apj*'

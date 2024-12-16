@@ -8,7 +8,7 @@ authors:
 - Jo Bovy
 - Xiaolong Du
 date: '2022-12-01'
-publishDate: '2024-12-16T07:20:12.543746Z'
+publishDate: '2024-12-16T07:25:40.395315Z'
 publication_types:
 - article-journal
 publication: '*mnras*'

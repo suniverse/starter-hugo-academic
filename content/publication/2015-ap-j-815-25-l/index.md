@@ -4,7 +4,7 @@ authors:
 - Xinyu Li
 - Andrei M. Beloborodov
 date: '2015-12-01'
-publishDate: '2024-12-16T07:20:12.729755Z'
+publishDate: '2024-12-16T07:25:40.598942Z'
 publication_types:
 - article-journal
 publication: '*apj*'

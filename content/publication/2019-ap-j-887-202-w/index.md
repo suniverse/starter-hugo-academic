@@ -9,7 +9,7 @@ authors:
 - G.~Q. Zhang
 - K.~S. Cheng
 date: '2019-12-01'
-publishDate: '2024-12-16T07:20:12.665514Z'
+publishDate: '2024-12-16T07:25:40.531122Z'
 publication_types:
 - article-journal
 publication: '*apj*'

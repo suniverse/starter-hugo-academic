@@ -5,7 +5,7 @@ authors:
 - T. Harko
 - K.~S. Cheng
 date: '2012-06-01'
-publishDate: '2024-12-16T07:20:12.746603Z'
+publishDate: '2024-12-16T07:25:40.615854Z'
 publication_types:
 - article-journal
 publication: '*jcap*'

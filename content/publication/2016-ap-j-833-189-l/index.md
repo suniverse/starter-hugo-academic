@@ -5,7 +5,7 @@ authors:
 - Yuri Levin
 - Andrei M. Beloborodov
 date: '2016-12-01'
-publishDate: '2024-12-16T07:20:12.712474Z'
+publishDate: '2024-12-16T07:25:40.581452Z'
 publication_types:
 - article-journal
 publication: '*apj*'

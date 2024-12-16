@@ -5,7 +5,7 @@ authors:
 - Yajie Yuan
 - Xinyu Li
 date: '2022-04-01'
-publishDate: '2024-12-16T07:20:12.574931Z'
+publishDate: '2024-12-16T07:25:40.423867Z'
 publication_types:
 - paper-conference
 publication: '*AAS/High Energy Astrophysics Division*'

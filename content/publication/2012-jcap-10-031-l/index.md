@@ -5,7 +5,7 @@ authors:
 - F.~Y. Wang
 - K.~S. Cheng
 date: '2012-10-01'
-publishDate: '2024-12-16T07:20:12.738133Z'
+publishDate: '2024-12-16T07:25:40.607657Z'
 publication_types:
 - article-journal
 publication: '*jcap*'
