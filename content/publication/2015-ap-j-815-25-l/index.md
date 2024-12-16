@@ -1,13 +1,22 @@
 ---
-title: "Plastic Damping of Alfvén Waves in Magnetar Flares and Delayed Afterglow Emission"
-date: 2015-12-01
-publishDate: 2019-11-06T01:22:47.163551Z
-authors: ["Xinyu Li", "Andrei M. Beloborodov"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*ApJ*"
-tags: ["dense matter", "magnetic fields", "stars: magnetars", "stars: neutron", "waves", "Astrophysics - High Energy Astrophysical Phenomena"]
-doi: "10.1088/0004-637X/815/1/25"
+title: Plastic Damping of Alfvén Waves in Magnetar Flares and Delayed Afterglow Emission
+authors:
+- Xinyu Li
+- Andrei M. Beloborodov
+date: '2015-12-01'
+publishDate: '2024-12-16T07:20:12.729755Z'
+publication_types:
+- article-journal
+publication: '*apj*'
+doi: 10.1088/0004-637X/815/1/25
+tags:
+- dense matter
+- magnetic fields
+- 'stars: magnetars'
+- 'stars: neutron'
+- waves
+- Astrophysics - High Energy Astrophysical Phenomena
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1505.03465
 ---
-

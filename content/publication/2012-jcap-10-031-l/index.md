@@ -1,13 +1,18 @@
 ---
-title: "Gravitational effects of condensate dark matter on compact stellar objects"
-date: 2012-10-01
-publishDate: 2019-11-06T01:22:47.164212Z
-authors: ["X.~Y. Li", "F.~Y. Wang", "K.~S. Cheng"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*JCAP*"
-tags: ["Astrophysics - Cosmology and Extragalactic Astrophysics"]
-doi: "10.1088/1475-7516/2012/10/031"
+title: Gravitational effects of condensate dark matter on compact stellar objects
+authors:
+- X.~Y. Li
+- F.~Y. Wang
+- K.~S. Cheng
+date: '2012-10-01'
+publishDate: '2024-12-16T07:20:12.738133Z'
+publication_types:
+- article-journal
+publication: '*jcap*'
+doi: 10.1088/1475-7516/2012/10/031
+tags:
+- Astrophysics - Cosmology and Extragalactic Astrophysics
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1210.1748
 ---
-

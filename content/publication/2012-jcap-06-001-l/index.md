@@ -1,13 +1,19 @@
 ---
-title: "Condensate dark matter stars"
-date: 2012-06-01
-publishDate: 2019-11-06T01:22:47.164864Z
-authors: ["X.~Y. Li", "T. Harko", "K.~S. Cheng"]
-publication_types: ["2"]
-abstract: ""
-featured: false
-publication: "*JCAP*"
-tags: ["Astrophysics - Cosmology and Extragalactic Astrophysics", "General Relativity and Quantum Cosmology"]
-doi: "10.1088/1475-7516/2012/06/001"
+title: Condensate dark matter stars
+authors:
+- X.~Y. Li
+- T. Harko
+- K.~S. Cheng
+date: '2012-06-01'
+publishDate: '2024-12-16T07:20:12.746603Z'
+publication_types:
+- article-journal
+publication: '*jcap*'
+doi: 10.1088/1475-7516/2012/06/001
+tags:
+- Astrophysics - Cosmology and Extragalactic Astrophysics
+- General Relativity and Quantum Cosmology
+links:
+- name: arXiv
+  url: https://arxiv.org/abs/1205.2932
 ---
-
