@@ -8,11 +8,10 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 30
+active:false
 
 title: Featured Publications
 subtitle: ""
-
-active:false
 
 content:
   # Page type to display. E.g. post, talk, publication...
